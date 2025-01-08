@@ -21,7 +21,7 @@ The repository contains the following C++ source files:
 - `iapf_01.cpp`: Intelligent APF with adaptive parameters.
 - `iapf_02.cpp`: Further enhanced intelligent APF.
 - `iapf_03.cpp`: Intelligent APF combined with machine learning techniques.
-- `netf0.cpp`: Neural-network-based potential field method.
+
 
 ## Getting Started
 
