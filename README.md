@@ -37,3 +37,15 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/HemantP02/path_plannig_apf-t_i.git
    cd path_plannig_apf-t_i
+2. Compile a source file:
+   ```bash
+   g++ -o apf_example apf_01.cpp
+3. Run the compiled executable:
+   ```bash
+   ./apf_example
+   Replace apf_01.cpp with any other file name to test different versions.
+
+4. Contributing: Contributions are welcome! Fork this repository, create a branch for your feature or bug fix, and submit a pull request. Ensure your code follows the existing style and structure.
+
+5. License
+This project is licensed under the MIT License. See the LICENSE file for details.
